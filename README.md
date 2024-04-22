@@ -1,6 +1,8 @@
 # FRCD
 
-This is for [Feature Refine Change Detection (FRCD) ](https://ieeexplore.ieee.org/document/10210603)in remote sensing images.
+This is for [FRCD: Feature Refine Change Detection Network for Remote Sensing Images](https://ieeexplore.ieee.org/document/10210603)in remote sensing images.
+
+The code will be polished soon. IF YOU HAVE ANY QUESTIONS, PLEASE DISCUSS THEM IN THE ISSUE PART.
 
 Dataset shodld be in ```./dataset/CCD_real```
 
