@@ -1,12 +1,6 @@
-# This file is based on the Swin-Transformer V1 
-# https://github.com/microsoft/Swin-Transformer
-
-# --------------------------------------------------------
-# Swin Transformer
-# Copyright (c) 2021 Microsoft
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Ze Liu, Yutong Lin, Yixuan Wei
-# --------------------------------------------------------
+# This backbone is based on the Swin-Transformer 
+# This model is a Siamese implementation of the Swin Transformer. The source is:
+https://github.com/microsoft/Swin-Transformer
 
 import torch
 import torch.nn as nn
