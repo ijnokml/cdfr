@@ -23,8 +23,6 @@ The configs can be found in ./configs and
 
 2 is the number of GPUs you want to use. Every GPU have 8 batch size.
 
-The codes are based on [SwinTransformer official implementation](https://github.com/microsoft/Swin-Transformer) and MMLab's mmsegmentation and MMCV. 
-
 Environment that may used to run the code is as follows:
 ```bash
 # Name                    Version                   Build  Channel
