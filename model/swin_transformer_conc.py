@@ -1,6 +1,5 @@
-# This backbone is based on the Swin-Transformer 
-# This model is a Siamese implementation of the Swin Transformer. The source is:
-https://github.com/microsoft/Swin-Transformer
+# This backbone is based on the Swin-Transformer This model is a Siamese implementation of the Swin Transformer.
+#  The Swin-Transformer: https://github.com/microsoft/Swin-Transformer
 
 import torch
 import torch.nn as nn
